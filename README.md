@@ -228,4 +228,4 @@ PowerISO is available as a complete free version for Windows, providing all feat
 Unlock the power of ISO management with PowerISO today! Download your free copy and start enjoying all features included.
 
 ---
-**Last updated:** 2026-11-07 06:54:18 UTC
+**Last updated:** 2026-11-07 13:48:38 UTC
